@@ -131,10 +131,6 @@ To run this analysis:
 
 5. Extend the analysis to include currency effects and exchange rate pass-through mechanisms for a more comprehensive inflation prediction system.
 
-## Contact
 
-For questions about this research, please contact [Your Contact Information].
 
-## License
 
-[Specify the license under which this project is released]
